@@ -1,7 +1,7 @@
 # PracticsVasilieva 
 Данный репозиторий содержит практические работы за 3 семестр по предмету: Программирование на языке Java
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Содержание 
 1. Вычисление факториала числа
